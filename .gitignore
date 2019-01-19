@@ -46,3 +46,6 @@ venv.bak/
 
 # VS Code
 .vscode/
+
+# Database
+app.db
