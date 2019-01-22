@@ -49,3 +49,6 @@ venv.bak/
 
 # Database
 app.db
+
+# Log
+microblog.log*
